@@ -17,6 +17,7 @@ public class FirstLogin extends AppCompatActivity {
 
     //Creating global variables
     //then are then referenced in the onCreate method
+    //
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
